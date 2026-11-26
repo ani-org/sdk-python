@@ -1,5 +1,7 @@
 # ANI sdk-python Quick Start Guide
 
+The sdks and examples can be found in the Releases of this repo.
+
 ### 📋 Prerequisites
 - Python 3.12 (Windows / Linux)
 - Network access to the agent gateway server
